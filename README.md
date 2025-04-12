@@ -2,7 +2,7 @@
 
 Thank you for stopping by — your presence here truly means a lot! 🙌
 
-I'm **Shashank Shekhar**, a pre-final year B.E. Computer Science and Engineering student at SLIET, Punjab. I'm passionate about building intuitive and dynamic web applications. With a strong foundation in **Full-Stack Web Development**, I enjoy exploring new tech, solving problems, and contributing to meaningful open-source projects.
+I'm **Shashank Shekhar**, a final year B.E. Computer Science and Engineering student at SLIET, Punjab. I'm passionate about building intuitive and dynamic web applications. With a strong foundation in **Full-Stack Web Development**, I enjoy exploring new tech, solving problems, and contributing to meaningful open-source projects.
 
 ---
 
