@@ -42,7 +42,7 @@ I'm **Shashank Shekhar**, a final year B.E. Computer Science and Engineering stu
 
 ## 📈 Some of My Projects
 
-- **[Food Minutes - Swiggy Clone](https://github.com/shashankshekhar-11/Food-Minutes)**  
+- **[Food Minutes - Swiggy Clone]([https://github.com/shashankshekhar-11/Food-Minutes](https://github.com/shashankshekhar-11/namaste-react))**  
   A Swiggy-inspired food delivery web app using React, Redux & Tailwind CSS.
 
 - **[Sociam - Social Media App](https://github.com/shashankshekhar-11/Sociam)**  
