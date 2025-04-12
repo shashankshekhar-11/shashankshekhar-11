@@ -48,7 +48,7 @@ I'm **Shashank Shekhar**, a final year B.E. Computer Science and Engineering stu
 - **[Sociam - Social Media App](https://github.com/shashankshekhar-11/sociam-frontend-v1)**  
   A MERN stack social media platform with user auth and post interactions.
 
-- **[SHORT-URL](https://github.com/shashankshekhar-11/SHORT-URL)**  
+- **[SHORT-URL](https://github.com/shashankshekhar-11/url-shortner)**  
   A clean, Node.js-based URL shortener with MongoDB support.
 
 ---
