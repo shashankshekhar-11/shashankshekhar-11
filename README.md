@@ -60,6 +60,7 @@ Feel free to reach out — let’s connect and build something awesome!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankshekhar11/)
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)]((https://x.com/shashank___11?t=Vu0E72XTXw8WjkyvCzLG_A&s=09))
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shashankshekhar746@gmail.com)
 
 ---
 
